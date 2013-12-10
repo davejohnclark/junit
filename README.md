@@ -6,7 +6,5 @@ For more information, please visit:
 * [Download and Install guide](https://github.com/junit-team/junit/wiki/Download-and-Install)
 * [Getting Started](https://github.com/junit-team/junit/wiki/Getting-started)
 
-[![Latest Build Status](https://junit.ci.cloudbees.com/job/JUnit/badge/icon)](https://junit.ci.cloudbees.com/)
-
-[![Built on DEV@cloud](http://www.cloudbees.com/sites/default/files/Button-Built-on-CB-1.png)](http://www.cloudbees.com/foss/foss-dev.cb)
+[![Build Status](https://travis-ci.org/davejohnclark/junit.png)](https://travis-ci.org/davejohnclark/junit)
 
